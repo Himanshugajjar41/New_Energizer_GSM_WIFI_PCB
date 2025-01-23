@@ -1,0 +1,10 @@
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [New_Energizer.PrjPcb]
+   Generated File[New_Energizer.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:06:38 PM On 23-Jan-25
