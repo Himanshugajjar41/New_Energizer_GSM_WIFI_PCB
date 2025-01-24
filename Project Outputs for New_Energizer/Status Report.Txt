@@ -1,10 +1,12 @@
-Output: Mixed Sim
-Type  : AdvSimNetlist
+Output: NC Drill Files
+Type  : NC Drill
 From  : Project [New_Energizer.PrjPcb]
-   Generated File[New_Energizer.nsx]
+   Generated File[New_Energizer_SMD.TXT]
+   Generated File[New_Energizer_SMD.LDP]
+   Generated File[New_Energizer_SMD.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 9:06:38 PM On 23-Jan-25
+Finished Output Generation At 21:41:20 On 24-01-2025
