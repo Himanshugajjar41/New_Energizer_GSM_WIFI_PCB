@@ -1,8 +1,8 @@
 DRC Rules Export File for PCB: D:\Work\Projects\Manishbhai\Energizer\Nuvoton 32 Bit\New_Energizer_GSM_WIFI_PCB\New_Energizer_SMD.PcbDoc
-RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=40.00
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
-RuleKind=Clearance|RuleName=Clearance_U10|Scope=Board|Minimum=6.00
 RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=40.00
+RuleKind=Clearance|RuleName=Clearance_U10|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=40.00

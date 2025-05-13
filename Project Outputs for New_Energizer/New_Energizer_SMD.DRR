@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: New_Energizer_SMD.PcbDoc   23-Jan-25  9:06:17 PM
+NCDrill File Report For: New_Energizer_SMD.PcbDoc   13-May-25  9:08:59 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,17 +7,17 @@ ASCII RoundHoles File : New_Energizer_SMD.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      28mil (0.711mm)                                           Round             126       PTH        43.15inch (1096.00mm)
+T1      28mil (0.711mm)                                           Round             125       PTH        43.87inch (1114.40mm)
 T2      32mil (0.8mm)                                             Round             6         PTH        3.72inch (94.42mm)
 T3      35mil (0.9mm)                                             Round             28        PTH        6.60inch (167.66mm)
 T4      39mil (1mm)                                               Round             4         PTH        7.26inch (184.47mm)
-T5      51mil (1.3mm)                                             Round             10        PTH        2.96inch (75.17mm)
+T5      51mil (1.3mm)                                             Round             10        PTH        2.57inch (65.16mm)
 T6      59mil (1.5mm)                                             Round             20        PTH        19.21inch (488.03mm)
 T7      67mil (1.7mm)                                             Round             3         PTH        0.37inch (9.40mm)
 T8      79mil (2mm)                                               Round             4         PTH        0.98inch (24.99mm)
 T9      98mil (2.5mm)                                             Round             4         PTH        3.40inch (86.36mm)
 T10     315mil (8mm)                                              Round             1         NPTH       0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              206
+Totals                                                                              205
 
 Total Processing Time (hh:mm:ss) : 00:00:00
